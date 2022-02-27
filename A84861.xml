@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from His Excellency Sir Thomas Fairfax, agreed upon by the Generall, Lieutenant-Generall, Colonels, Lieutenant-Colonels, Majors, and Captaines, under his Excellencies command, at a late Councell of Warre. Concerning, the brotherly meetings of Independents, and divers other well-affected people of this kingdome. With their desires to both Houses of Parliament concerning the same. Also, some particulars concerning the Booke of Common-Prayer. And the last propositions from the souldiery to his Excellency Sir Thomas Fairfax, concerning a great member of this kingdome. Published for generall satisfaction.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84861</idno>
+            <idno type="STC">Wing F206</idno>
+            <idno type="STC">Thomason E400_6</idno>
+            <idno type="STC">ESTC R201741</idno>
+            <idno type="EEBO-CITATION">99862241</idno>
+            <idno type="PROQUEST">99862241</idno>
+            <idno type="VID">114392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from His Excellency Sir Thomas Fairfax, agreed upon by the Generall, Lieutenant-Generall, Colonels, Lieutenant-Colonels, Majors, and Captaines, under his Excellencies command, at a late Councell of Warre. Concerning, the brotherly meetings of Independents, and divers other well-affected people of this kingdome. With their desires to both Houses of Parliament concerning the same. Also, some particulars concerning the Booke of Common-Prayer. And the last propositions from the souldiery to his Excellency Sir Thomas Fairfax, concerning a great member of this kingdome. Published for generall satisfaction.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for T: Deane,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of three documents: "The copy of a letter from Wooburn Lodge in Bedfordshire, concerning the Kings Majesty, &amp;c."; "A copy of the propositions and desires of the souldiery, concerning Col. Gen. Poyntz presented to his Excellency Sir Thomas Fairfax"; and "Another paper from his Excellency to the Lord Mayor and Common-Councel of the City of London", which is dated and signed at end: Reading Iuly 19. 1647. By the appointment of his Excellency Sir Thomas Fairfax and the Counsell of Warre. Signed Io. Rushworth Secret.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "July 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Church of England. --  Book of common prayer --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114392:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITIONS From His Excellency Sir Thomas Fairfax, AGREED Upon by the Generall, Lieutenant-Generall, Colenels Lieutenant-Colenels, Majors, and Captaines, under his Excellencies Command at a late Councell of Warre.</p>
+            <p>
+               <hi>CONCERNING,</hi> The Brotherly Meetings of <hi>Independents,</hi> and divers other well-affected People of this Kingdome. <hi>With their Deſires to both Houſes of Parliament concerning the ſame.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> Some particulars concerning the Booke of <hi>Common-Prayer.</hi> And the laſt Propoſitions from the Souldiery to his Excellency Sir <hi>Thomas Fairfax,</hi> concerning a great Member of this Kingdome.</p>
+            <p>
+               <hi>Publiſhed for generall ſatisfaction.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>T: Deane, Anno</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="copy_of_letter">
+            <pb facs="tcp:114392:2"/>
+            <pb facs="tcp:114392:2"/>
+            <head>THE COPY OF <hi>A</hi> LETTER FROM Wooburn Lodge in Bedfordſhire, concer<g ref="char:EOLhyphen"/>ning the Kings Majeſty, &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe particulars which I have to re<g ref="char:EOLhyphen"/>preſent unto you at this preſent, are things very remarkable and of great conſe<g ref="char:EOLhyphen"/>quence, being of ripeneſſe and maturity, both for the view of your Metropolis, and the whole Kingdome alſo: Therefore, for ſatiſ<g ref="char:EOLhyphen"/>faction
+<pb facs="tcp:114392:3"/>of your ſelves, and the reſt of your Fellow Commoners, I ſhall here communi<g ref="char:EOLhyphen"/>cate unto you, a Copy of ſome further Pro<g ref="char:EOLhyphen"/>poſals, agreed upon by the Generall, and his Councell of War, concerning all ſuch per<g ref="char:EOLhyphen"/>ſons as are impriſoned under pretence of Conventicles, as likewiſe touching the book of Common-Prayer, together with ſeverall other papers here encloſed; all wdich, I ſhall here give you in order, as followeth.</p>
+            <div type="part">
+               <head>I</head>
+               <p>WHereas divers perſons really affec<g ref="char:EOLhyphen"/>ted to the weale and peace of this Kingdom, are now impriſoned &amp; grievouſ<g ref="char:EOLhyphen"/>ly vexed, by force or pretence of ſeverall Statutes (eſpecially intended) againſt all thoſe who repaire not to ſome Church or Chappell to heare the Booke of Common-prayer, or againſt thoſe who are popiſh Re<g ref="char:EOLhyphen"/>cuſants, and by their not going to Church might be diſcovered: and againſt theſe who ſhould hold any Conventicles of Meetings, to plot and conſpire ſome miſchiefe to the State. Now foraſmuch as the Parliament hath declared againſt the Booke of Com<g ref="char:EOLhyphen"/>mon-prayer, and that the ſaid Act againſt
+<pb facs="tcp:114392:3"/>the Conventicles was not intended againſt people meeting only for Religious Exerci<g ref="char:EOLhyphen"/>ſes: it is therefore deſired, That all perſons proceeded againſt upon any Statute or Act whatſoever may bee forthwith diſcharged from their impriſonments, indictments, or any other moleſtation whatſoever, by ver<g ref="char:EOLhyphen"/>tue of the fore-mentioned Statutes, unleſſe ſuch perſons ſhall be proved either popiſh Recuſants (and that by ſome other way then by their not coming to Church) or to have in ſuch private Meetings as aforeſaid ſome perjurious deſign, conſpiracy, and practice a<g ref="char:EOLhyphen"/>gainſt the State. Therefore, for a more effec<g ref="char:EOLhyphen"/>tuall courſe herein, it is deſired, That the Parliament would bee pleaſed to give Or<g ref="char:EOLhyphen"/>ders for the acquitting of all perſons as a<g ref="char:EOLhyphen"/>foreſaid, by vertue, or under pretence of the ſaid Statutes, otherwiſe then as before ex<g ref="char:EOLhyphen"/>cepted.</p>
+               <p>
+                  <hi>Aſſented to by the Generall, and the reſt of the Officers under his Excellencies com<g ref="char:EOLhyphen"/>mand.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:114392:4"/>
+            <head>A Copy of the Propoſitions and Deſires of the Souldiery, concerning Col. Gen. <hi>Poyntz</hi> pre<g ref="char:EOLhyphen"/>ſented to his Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax.</hi>
+            </head>
+            <p n="1">1. That your Excellency would be pleaſed ſeri<g ref="char:EOLhyphen"/>ouſly to ponder the ſadneſſe of our conditioq in beins deſtitute of a Commander in chief, of known integrity, and that accordily your Excellency would be pleaſed to helpe us in this our great neceſſitp</p>
+            <p n="2">2. That your Excellency would be pleaſed to fur<g ref="char:EOLhyphen"/>ther whatſoever may couduce to our future ſafety, for we conceive our ſelves very neer to deſtruction, when the Enemies of our well-being have the com<g ref="char:EOLhyphen"/>mand over us, and would willingly make us acceſſa<g ref="char:EOLhyphen"/>ry to out owu thraldome.</p>
+            <p n="3">3. That your Excellency would be pleaſed to cauſe this cdarge to be proſecuted againſt him by a Coun<g ref="char:EOLunhyphen"/>cell of Warre of Army more immediatly under your Excellencies command, many officers here being accſſeary with him in the ſame undertaking.</p>
+            <p n="4">4. Theſe things being performed, we humbly deſire your Excellencies ſeriouſly to conſider our former engagements with you in former ſervice, and to take ſuch couſe for our future ſupply with pay as we may not lye languiſhing, when our Enemies are in proſperity.</p>
+            <argument>
+               <p>This is a perfect Copy of the four Heads or Propoſi<g ref="char:EOLhyphen"/>tions preſented to his Excellency from the Nor<g ref="char:EOLhyphen"/>thern Party,</p>
+            </argument>
+         </div>
+         <div type="paper">
+            <pb facs="tcp:114392:4"/>
+            <head>Another Paper from his Excellency to the Lord Mayor and Common-Councel of the City of London.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>IN the carrying on of the great buſineſſes of the King<g ref="char:EOLhyphen"/>dome towards a generall and happy ſettlement, it hath been a fixed principle with us to make it our firſt endeavour with the Parliament, that all things which threaten an en<g ref="char:EOLhyphen"/>gagement of the Kingdome in a ſecond Warre, might be re<g ref="char:EOLhyphen"/>moved before we could have a confident expectation of a good iſſue; which upon a Treaty with their Commiſſioners, which courſe of ours, although it might have ſome appea<g ref="char:EOLhyphen"/>rance of delay: yet by men that are zealous of the Kingdoms good (we hope) no endeavour will be judged unneceſſary, that may ſecure the Kingdome from the danger of any new imbroylements.</p>
+            <p>We are now come thus far, that the moſt materiall parti<g ref="char:EOLhyphen"/>culars which we have in preparation to propoſe, for the ge<g ref="char:EOLhyphen"/>nerall ſettlement of the affaires of the Kingdome, have been communicated to the Parliaments Commiſſioners; and we hope they are ſatisfied, that they contain in them thing; ten<g ref="char:EOLhyphen"/>ding to a generall good, and to lay an hopefull Foundation for common Right, and Freedom, to the people of this Land for future; and for a laſting peace amongſt us. But before we can ſecurely intend and without interruption apply our ſelves unto the proceedings and diſpatch of the Treaty, thereupon we have delivered into the hands of their Com<g ref="char:EOLhyphen"/>miſſioners, the Paper which conſiſts of three particulars, in the laſt whereof (which is the Militia of the City) you being moſt immediatly concerned, to the end you may ſee wee would ask nothing which relates to you, without giving you a juſt account thereof, and all poſſible ſatisfaction therein; we have alſo given a Copy thereof to your Commiſſioners, to be here with ſent unto you. We ſhould not deſire this, ort any thing elſe of that nature, were we not perſwaded, thas what we deſire is ſeaſonable, and for yours and the Kingdome good and quiet. And we ſhould willingly have been ſilen- (as to this:) but conſidering the juſt jealouſies which lye at
+<pb facs="tcp:114392:5"/>gainſt ſome perſons, now authorized in the exerciſe of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> power amongſt you, and thoſe attempts which have beene made by ſome, who would have engaged your City, to<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Warre, had not your Lordſhips and the Court of Aldermen and Common-Councell, by your wiſdome prevented it, by getting thoſe Votes which were paſſed by the Militia, made Null; We cannot in a caſe of this importance but deale free<g ref="char:EOLhyphen"/>ly with you, in deſiring your concurrence with ours to the <hi>Parliament;</hi> that the Militia may be changed into thoſe hands, out of which it was taken, of whoſe care and fidelity to the Publick, there hath been ſo long and large Experience as few ages have paralell'd. And if the intereſt we have ſo long fought for be ſtill the ſame, let it not ſeem ſtrange that we deſire both of the Parliament and City, that thoſe may be in places of ſuch a Truſt, who have given the beſt proofe of their courage and conſtancy in proſecution of the ſame.</p>
+            <p>Having thus far declared our ſelves with all freedome and clearneſſe to you, as we do not your good acceptance of your intention therein, ſo we deſire your forwa dneſſe in a work ſo much tending to mu uall confidence; and to prevent the deſignes of any who would be glad to put obſtructions in the way to a happy concluſion, and envy nothing more then the continuance of a right underſtanding betweene you and us.</p>
+            <closer>
+               <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax</hi> and the Coun<g ref="char:EOLhyphen"/>ſell of Warre. Signed <hi>Io. Ruſhworth</hi> Secret'</signed>
+               <dateline>
+                  <hi>Reading</hi> 
+                  <date>
+                     <hi>Iuly</hi> 19. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
